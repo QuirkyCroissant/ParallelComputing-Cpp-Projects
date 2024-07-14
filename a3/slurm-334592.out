@@ -1,0 +1,17 @@
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 8
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Elapsed time: 14.8774 seconds, iterations: 1000
+Verification: OK

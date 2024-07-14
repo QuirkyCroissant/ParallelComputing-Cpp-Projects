@@ -1,0 +1,5 @@
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 2
+Configuration: m: 2688, n: 4096, max-iterations: 1000, epsilon: 0.001, processes: 2
+Elapsed time: 33.3140 seconds, iterations: 1000
+Elapsed time: 33.3139 seconds, iterations: 1000
+Verification: OK
